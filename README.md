@@ -14,33 +14,8 @@
 
 ```ts
 const beksultan = {
-    location: "Russia ru",
-
     role: "Frontend / Full Stack Developer",
-
-    frontend: [
-        "React",
-        "Next.js",
-        "HTML",
-        "CSS",
-        "TailwindCSS"
-    ],
-
-    backend: [
-        "Node.js",
-        "Express",
-        "MongoDB",
-        "MySQL",
-        "C#"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Next.js",
-        "System Design"
-    ],
-
-    motto: "Code. Learn. Improve."
+    about_me: "A little bit of everything";
 }
 ```
 
@@ -50,7 +25,29 @@ const beksultan = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,mongodb,mysql,cs,git,github,vscode&perline=8"/>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -73,26 +70,6 @@ const beksultan = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=CotVSaposhkah&theme=react-dark&hide_border=true"/>
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 📰 News Site | Graduation project | React • TypeScript |
-| 🏨 CRM Hotel | Hotel Management CRM | React • Node.js |
-| 🎮 Topology Game | Educational application | JavaScript |
-
----
-
-# 🌐 Connect with me
-
-<div align="center">
-
-<a href="https://vk.ru/b.tishpayev">
-<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
-</a>
 
 ---
 
