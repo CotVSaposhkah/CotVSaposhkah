@@ -90,19 +90,9 @@ const beksultan = {
 
 <div align="center">
 
-<a href="https://github.com/CotVSaposhkah">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://vk.ru/b.tishpayev">
 <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>
 </a>
-
-<a href="mailto:tishpayev.beksultan@mail.ru">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
